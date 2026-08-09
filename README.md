@@ -5,4 +5,3 @@
 - 지원: `https://hawonjin.github.io/tongnal-support/`
 - 개인정보처리방침: `https://hawonjin.github.io/tongnal-support/privacy.html`
 - 문의: `maner@kakao.com`
-
